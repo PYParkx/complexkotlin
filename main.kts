@@ -47,6 +47,21 @@ enum class Philosopher {
   abstract fun signal(): Philosopher
 }
 
+/* BONUS
+Who is Seneca the Younger?
+- Lucius Annaeus Seneca A.K.A. Seneca the Younger was a Roman philosopher, writer, and statesman who 
+  was a tutor and advisor to emperor Nero. He was one of the most influential people in the Roman world.
+  But ultimately was forced to commit suicide by emperor Nero which Nero accused him for conspiring
+  against his life.
+
+Which school of philosophy he is commonly associated with.
+- Seneca the Younger is commonly associated with Stoicism.
+
+Summarize that school of philosophy in a single sentence.
+- Stoicism: Teaches you how to live in harmony with nature in order to stay happy and calm 
+ and not to allow any external events or things out of our control to affect your virtue.
+*/
+
 // create an class "Command" that can be used as a function (provide an "invoke()" function)
 // that takes a single parameter ("message" of type String)
 // primary constructor should take a String argument ("prompt")
